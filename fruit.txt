@@ -3,3 +3,6 @@ apple
 mango
 grapes
 berry
+pineapple
+banana
+pears
